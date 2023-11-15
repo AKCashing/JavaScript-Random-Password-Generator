@@ -6,4 +6,4 @@ I'm editing the given JavaScript code too allow the user to generate a strong pa
 ![Password Generator](./Assets/03-javascript-homework-demo.png)
 
 ## Link To Deployed Site
-[Portfolio](https://akcashing.github.io/Portfolio-Showcase/)
+[Portfolio](https://akcashing.github.io/JavaScript-Random-Password-Generator/)
