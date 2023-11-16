@@ -103,7 +103,7 @@ function generatePassword() {
     acceptableChars = acceptableChars + '`~!@#$%^&*()-_=+[{]}\|;:",<.>/?';
   }
 
-  var userPassword;
+  var userPassword = '';
 
   for (var i = 0; i < passwordLength; i++)
   {
