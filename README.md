@@ -3,8 +3,7 @@
 ## Description
 I'm editing the given JavaScript code too allow the user to generate a strong password that provides great security
 
-![Portfolio Screenshot](./assets/images/portfolio1.png)
-![Portfolio Screenshot](./assets/images/portfolio2.png)
+![Password Generator](./Assets/03-javascript-homework-demo.png)
 
 ## Link To Deployed Site
-[Portfolio](https://akcashing.github.io/Portfolio-Showcase/)
+[Radnom Password Generator](https://akcashing.github.io/JavaScript-Random-Password-Generator/)
